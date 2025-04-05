@@ -20,5 +20,6 @@ public class SubmitOrder extends BaseTest{
 	landingpage.gotoDemoBlazeURL();
 	Thread.sleep(3000);
 	landingpage.login("pavanol", "test@123");
+	//this is 2nd commit
 	}
 }
